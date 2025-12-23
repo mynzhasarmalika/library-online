@@ -1,4 +1,4 @@
-# library-online[README.md](https://github.com/user-attachments/files/24303567/README.md)
+# library-online
 # Online Library Website
 
 A modern, full-featured online library management system built with plain PHP and Tailwind CSS.
@@ -272,6 +272,3 @@ $stmt->execute(['id' => $id]);
 $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 ```
 
-## License
-
-MIT License
